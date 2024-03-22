@@ -1,0 +1,92 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Gayo Arabica",
+            "size": "1000 Gram",
+            "harga": "100.000",
+            "link": "https://www.tokopedia.com/afifastoreid-1/kopi-arabika-aceh-gayo-1-kg-commercial-grade-bubuk-kasar-82d9c",
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/18/1fd3a8bb-e0d0-42f9-bc71-b466753bc7f8.jpg"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Espresso Robusta",
+            "size": "1000 Gram",
+            "harga": "235.000",
+            "link": "https://www.tokopedia.com/ottenjakarta/kopi-crema-espresso-1kg-biji-bubuk-kopi-arabica-robusta-otten-coffee-medium-coarse?extParam=ivf%3Dfalse%26src%3Dsearch",
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/11/21/5f70c0cc-b833-4dd4-8511-67ea67833d12.jpg"
+        },
+        {
+            "nama": "Toraja Robusta",
+            "size": "100 Gram",
+            "harga": "50.000",
+            "link": "https://www.tokopedia.com/sakhacoffee/kopi-robusta-toraja-mamasa-sulawesi-coffee-bean-espresso-roasted-beans-100-gram-bubuk-sedang?extParam=ivf%3Dtrue%26src%3Dsearch",
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/9/11/57a0bbec-6a0b-4220-a0a1-fce1b38c678a.jpg"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Ice Lemon Tea",
+            "size": "500 Gram",
+            "harga": "50.000",
+            "link": "https://www.tokopedia.com/unilever-food/lipton-ice-tea-mix-lemon-510gr?extParam=cmp%3D1%26ivf%3Dfalse&src=topads",
+            "foto": "https://magfood-amazy.com/wp-content/uploads/2017/12/ice-lemon-tea.jpg"
+        },
+        {
+            "nama": "Iced Milkshake Matcha ",
+            "size": "1000 Gram",
+            "harga": "90.000",
+            "link": "https://www.tokopedia.com/maxfood/1-kg-matcha-milkshake-bubuk-minuman-rasa-green-tea?extParam=ivf%3Dfalse&src=topads",
+            "foto": "https://www.acozykitchen.com/wp-content/uploads/2017/04/IcedMatchaLatte-1.jpg"
+        },
+        {
+            "nama": "Thai Tea",
+            "size": "1000 Gram",
+            "harga": "80.000",
+            "link": "https://www.tokopedia.com/masteristaid/flavourista-easy-mix-bubuk-minuman-rasa-thai-tea-1000-gram?extParam=ivf%3Dfalse&src=topads",
+            "foto": "https://cdn0-production-images-kly.akamaized.net/6rsJ0KsC3PNU9jEegAMRauk-b3k=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1558554/original/004149000_1491459681-Berjuta-Manfaat-Thai-tea-bagi-Kesehatan.jpg"
+        }
+    ]
+}
